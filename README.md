@@ -1,8 +1,6 @@
 # Translation-Server
 Nodejs webserver that exposes an API to translate a text
 
-For more detail, please visit: 
-[Build Node.js Rest APIs with Express & MySQL](https://bezkoder.com/node-js-rest-api-express-mysql/).
 # Project setup
 To get the Node server running locally:
 - Clone this repo
